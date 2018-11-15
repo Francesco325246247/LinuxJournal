@@ -14,13 +14,13 @@ I am doing this journal to keep track of useful commands, macros, softwares, con
 
 
 ### 15/11/2018
-Copy file from HD to USB stick from cmd line.
 
-#### find the USB key: check the sdbx where x is a number
+#### Copy file from HD to USB stick from cmd line.
+
 ```Bash
 lsblk
 sdb
-|___sdb1
+|___sdb1   <---- USB key
 
 #### Make a mount point
 mkdir /mnt/usbstick
