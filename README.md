@@ -42,3 +42,6 @@ umount /mnt/usbstick
 
 Links:
 - [Error on Ubuntu boot up - “recovering journal” ](https://askubuntu.com/questions/924170/error-on-ubuntu-boot-up-recovering-journal)
+- [Copying files to a USB drive](https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-terminal)
+- [How to access a usb flash drive from the terminal?](https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-terminal)
+- [How to show only hidden files in Terminal?](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal)
