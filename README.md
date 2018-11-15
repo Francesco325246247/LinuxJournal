@@ -40,3 +40,4 @@ Links:
 - [Copying files to a USB drive](https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-terminal)
 - [How to access a usb flash drive from the terminal?](https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-terminal)
 - [How to show only hidden files in Terminal?](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal)
+- [How To Read and Set Environmental and Shell Variables on a Linux](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps)
