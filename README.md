@@ -19,24 +19,19 @@ Copy file from HD to USB stick from cmd line.
 #### find the USB key: check the sdbx where x is a number
 ```Bash
 lsblk
-
 sdb
 |___sdb1
-```
+
 #### Make a mount point
-```Bash
 mkdir /mnt/usbstick
-```
+
 #### Mount the partition
-```Bash
 mount /dev/sdb1 /mnt/usbstick
-```
+
 #### Copy files
-```Bash
 cp -r /myApp/ /dev/sdb1/
-```
+
 #### Unmount
-```Bash
 umount /mnt/usbstick
 ```
 
