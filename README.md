@@ -39,3 +39,6 @@ cp -r /myApp/ /dev/sdb1/
 ```Bash
 umount /mnt/usbstick
 ```
+
+Links:
+- [Error on Ubuntu boot up - “recovering journal” ](https://askubuntu.com/questions/924170/error-on-ubuntu-boot-up-recovering-journal)
